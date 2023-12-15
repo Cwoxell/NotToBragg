@@ -1,0 +1,6 @@
+This is your saved etching parameters! This code will be updated with every new etch
+Bragg Spacing: 1400
+Gratings Height: 50
+Laser Power Attenuation: 4
+Periods: 4
+Grating Order: 1
